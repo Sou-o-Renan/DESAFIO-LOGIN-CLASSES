@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\renan\\Documents\\Programando\\Desafio Login e Usuários\\Desafio Login e Usuários.csproj",
+      "projectUniqueName": "C:\\Users\\renan\\Documents\\Programando\\Desafio Login e Usuários\\DESAFIO-LOGIN-CLASSES\\Desafio Login e Usuários.csproj",
       "projectName": "Desafio Login e Usuários",
-      "projectPath": "C:\\Users\\renan\\Documents\\Programando\\Desafio Login e Usuários\\Desafio Login e Usuários.csproj",
+      "projectPath": "C:\\Users\\renan\\Documents\\Programando\\Desafio Login e Usuários\\DESAFIO-LOGIN-CLASSES\\Desafio Login e Usuários.csproj",
       "packagesPath": "C:\\Users\\renan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\renan\\Documents\\Programando\\Desafio Login e Usuários\\obj\\",
+      "outputPath": "C:\\Users\\renan\\Documents\\Programando\\Desafio Login e Usuários\\DESAFIO-LOGIN-CLASSES\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\renan\\AppData\\Roaming\\NuGet\\NuGet.Config"

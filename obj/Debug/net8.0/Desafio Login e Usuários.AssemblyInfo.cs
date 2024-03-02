@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Desafio Login e Usuários")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2cf48e42129cd5a01119e196a627b2ac335aee14")]
 [assembly: System.Reflection.AssemblyProductAttribute("Desafio Login e Usuários")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Desafio Login e Usuários")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

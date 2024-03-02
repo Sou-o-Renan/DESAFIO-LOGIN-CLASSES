@@ -23,7 +23,7 @@ Console.WriteLine("_________________________________");
 
 
 
-// criando cada usuário
+
 var aluno1 = new Student();
 Console.WriteLine("Digite o nome de usuário do aluno 1: ");
 aluno1.CriarUsuário(Console.ReadLine());
@@ -56,7 +56,6 @@ aluno4.CriarSenha(Console.ReadLine());
 
 //_________________________________________________________________//
 
-// mostrar os dados dos alunos
 Console.WriteLine("Dados dos alunos:");
 
 Console.WriteLine($"Aluno 1 - Nome de usuário: {aluno1.user}, Senha: {aluno1.Senha}");
