@@ -1,0 +1,14 @@
+C:\Users\renan\Documents\Programando\Desafio Login e Usuários\obj\Debug\net8.0\Desafio Login e Usuários.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\Documents\Programando\Desafio Login e Usuários\obj\Debug\net8.0\Desafio Login e Usuários.AssemblyInfoInputs.cache
+C:\Users\renan\Documents\Programando\Desafio Login e Usuários\obj\Debug\net8.0\Desafio Login e Usuários.AssemblyInfo.cs
+C:\Users\renan\Documents\Programando\Desafio Login e Usuários\obj\Debug\net8.0\Desafio Login e Usuários.csproj.CoreCompileInputs.cache
+C:\Users\renan\Documents\Programando\Desafio Login e Usuários\bin\Debug\net8.0\Desafio Login e Usuários.exe
+C:\Users\renan\Documents\Programando\Desafio Login e Usuários\bin\Debug\net8.0\Desafio Login e Usuários.deps.json
+C:\Users\renan\Documents\Programando\Desafio Login e Usuários\bin\Debug\net8.0\Desafio Login e Usuários.runtimeconfig.json
+C:\Users\renan\Documents\Programando\Desafio Login e Usuários\bin\Debug\net8.0\Desafio Login e Usuários.dll
+C:\Users\renan\Documents\Programando\Desafio Login e Usuários\bin\Debug\net8.0\Desafio Login e Usuários.pdb
+C:\Users\renan\Documents\Programando\Desafio Login e Usuários\obj\Debug\net8.0\Desafio Login e Usuários.dll
+C:\Users\renan\Documents\Programando\Desafio Login e Usuários\obj\Debug\net8.0\refint\Desafio Login e Usuários.dll
+C:\Users\renan\Documents\Programando\Desafio Login e Usuários\obj\Debug\net8.0\Desafio Login e Usuários.pdb
+C:\Users\renan\Documents\Programando\Desafio Login e Usuários\obj\Debug\net8.0\Desafio Login e Usuários.genruntimeconfig.cache
+C:\Users\renan\Documents\Programando\Desafio Login e Usuários\obj\Debug\net8.0\ref\Desafio Login e Usuários.dll
